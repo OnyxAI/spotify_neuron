@@ -47,7 +47,7 @@ eval("\nmodule.exports = function () {\n\treturn /[\\u001b\\u009b][[()#;?]*(?:[0
 /***/ ((__unused_webpack_module, __unused_webpack___webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"?9a3c\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n\nPromise.all(/*! import() */[__webpack_require__.e(\"vendors-node_modules_prop-types_index_js-node_modules_spotify-web-api-js_src_spotify-web-api_-33eec6\"), __webpack_require__.e(\"src_containers_Spotify_index_js\"), __webpack_require__.e(\"index_js-_12600\")]).then(__webpack_require__.bind(__webpack_require__, /*! ./index.js */ \"./index.js\"));\n\n//# sourceURL=webpack://spotify/./bootstrap.js?");
+eval("/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"?9a3c\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n\nPromise.all(/*! import() */[__webpack_require__.e(\"vendors-node_modules_prop-types_index_js-node_modules_spotify-web-api-js_src_spotify-web-api_-9b72fd\"), __webpack_require__.e(\"src_containers_Spotify_index_js\"), __webpack_require__.e(\"index_js-_12600\")]).then(__webpack_require__.bind(__webpack_require__, /*! ./index.js */ \"./index.js\"));\n\n//# sourceURL=webpack://spotify/./bootstrap.js?");
 
 /***/ }),
 
